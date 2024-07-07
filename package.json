@@ -6,8 +6,11 @@
   },
   "dependencies": {
     "vite": "^5.3.3"
+    
   },
   "scripts": {
-    "dev":"vite"
+    "build": "vite build",
+    "dev": "vite",
+    "start": "vite"
   }
 }
